@@ -9,7 +9,7 @@ I recently completed my PhD at UC Berkeley in computer science advised by Michae
 
 ## Contact
 
-email:  "firstname"_"lastname"@berkeley.edu\
+email:  "firstname"_"lastname"@berkeley.edu
 
 ## Selected Publications
 
