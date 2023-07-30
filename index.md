@@ -2,108 +2,37 @@
 layout: default
 ---
 
-I’m a Data Science Postdoctoral Fellow at Stanford University, where I'm hosted by Emmanuel Candès in Statistics.
+I'm currently a researcher at Google DeepMind, where I work on topics related to machine learning and artificial intelligence.
 
-I obtained my PhD in Electrical Engineering and Computer Sciences at UC Berkeley in 2023, where I was advised by Moritz Hardt and Michael Jordan. I spent the summer of 2020 interning at Apple AI Research, hosted by Vitaly Feldman. My PhD research was generously supported by an Apple PhD Fellowship in AI/ML. Before starting my PhD, I completed my BEng in Electrical and Computer Engineering at the University of Novi Sad in Serbia, where I was advised by Dragana Bajovic. During undergrad I spent a summer at Caltech, working with Babak Hassibi.
-
+I recently completed my PhD at UC Berkeley in computer science advised by Michael Jordan. Before that I received an M.Phil from the University of Cambridge where I was supervised by Zoubin Ghahramani, and a B.A. in Physics from Harvard University.
 
 
 ## Contact
 
-email:  "firstname"."lastname"@stanford.edu\
-office: 116 Sequoia Hall 
+email:  "firstname"_"lastname"@berkeley.edu\
 
-## Publications and preprints
+## Selected Publications
 
-(* denotes equal contribution, α-β denotes alphabetical ordering)
+_Meta-Analysis of Randomized Experiments with Applications to Heavy-Tailed Response Data_\
+N. Tripuraneni, D. Madeka, D. Foster, D. Perrault-Joncas, M. I. Jordan\
+_Preprint_ [arxiv](https://arxiv.org/abs/2112.07602)
 
+_Optimal Mean Estimation without a Variance?_\
+Y. Cherapanamjeri, N. Tripuraneni, P. Bartlett, M. I. Jordan\
+_Conference on Learning Theory (COLT) 2022_ [COLT](https://proceedings.mlr.press/v178/cherapanamjeri22a.html)  [arxiv](https://arxiv.org/abs/2011.12433)
 
-_Plug-in Performative Optimization_\
-L. Lin, T. Zrnic\
-_Preprint_ [arxiv](https://arxiv.org/abs/2305.18728)
+_Covariate shift in high-dimensional random feature regression_\
+N. Tripuraneni, B. Adlam, J. Pennington\
+_Preprint_ [arxiv](https://arxiv.org/abs/2111.08234)
 
-_Prediction-Powered Inference_\
-(α-β) A. N. Angelopoulos, S. Bates, C. Fannjiang, M. I. Jordan, T. Zrnic\
-_Preprint_ [arxiv](https://arxiv.org/abs/2301.09633) [code](https://github.com/aangelopoulos/prediction-powered-inference)
+_On the Theory of Transfer Learning: The Importance of Task Diversity?_\
+N. Tripuraneni, M. I. Jordan, C. Jin\
+_Conference on Neural Information Processing Systems (NeurIPS) 2021_ [NeurIPS](https://proceedings.neurips.cc/paper/2020/hash/59587bffec1c7846f3e34230141556ae-Abstract.html)  [arxiv](https://arxiv.org/abs/2006.11650)
 
-_Locally Simultaneous Inference_\
-T. Zrnic, W. Fithian\
-_Preprint_ [arxiv](https://arxiv.org/abs/2212.09009) [talk](https://drive.google.com/file/d/1R0LRXoQh2lC4WThcvGEDjQZ8O386b7kf/view)\
-_Presented at the International Conference on Multiple Comparisons Procedures (MCP) 2022_
+_Stochastic Cubic Regularization for Fast Nonconvex Optimization?_\
+N. Tripuraneni, M. Stern, C. Jin, J. Regier, M. I. Jordan\
+_Conference on Neural Information Processing Systems (NeurIPS) 2018_ [NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2018/file/db1915052d15f7815c8b88e879465a1e-Paper.pdf)  [arxiv](https://arxiv.org/abs/1711.02838)
 
-_Post-Selection Inference via Algorithmic Stability_\
-T. Zrnic, M. I. Jordan\
-_Annals of Statistics (AoS) 2023+_ [arxiv](https://arxiv.org/abs/2011.09462) [talk](https://drive.google.com/file/d/1eMk98D--tXTCpTcaUeUa4vU7ibGAou57/view)
-
-_Algorithmic Collective Action in Machine Learning_\
-(α-β) M. Hardt, E. Mazumdar, C. Mendler-Dünner, T. Zrnic\
-_International Conference on Machine Learning (ICML) 2023_ [arxiv](http://arxiv.org/abs/2302.04262) [talk](https://www.youtube.com/watch?v=E9aa6BrrJvA)
-
-_Valid Inference after Causal Discovery_\
-P. Gradu\*, T. Zrnic\*, Y. Wang, M. I. Jordan\
-_Preprint_ [arxiv](https://arxiv.org/abs/2208.05949)
-
-_A Note on Zeroth-Order Optimization on the Simplex_\
-T. Zrnic, E. Mazumdar\
-_Note_ [arxiv](https://arxiv.org/abs/2208.01185)
-
-_Regret Minimization with Performative Feedback_\
-M. Jagadeesan, T. Zrnic, C. Mendler-Dünner\
-_International Conference on Machine Learning (ICML) 2022_ [ICML](https://proceedings.mlr.press/v162/jagadeesan22a.html) [arxiv](https://arxiv.org/abs/2202.00628)\
-_Presented at the Symposium on Foundations of Responsible Computing (FORC) 2022_
-
-_Private Prediction Sets_\
-A. N. Angelopoulos\*, S. Bates\*, T. Zrnic\*, M. I. Jordan\
-_Harvard Data Science Review (HDSR) 2022_ [HDSR](https://hdsr.mitpress.mit.edu/pub/deziirvg/release/1?readingCollection=713cbc90) [arxiv](https://arxiv.org/abs/2102.06202) [code](https://github.com/aangelopoulos/private_prediction_sets)
-
-_Who Leads and Who Follows in Strategic Classification?_\
-T. Zrnic\*, E. Mazumdar\*, S. S. Sastry, M. I. Jordan\
-_Conference on Neural Information Processing Systems (NeurIPS) 2021_ [NeurIPS](https://proceedings.neurips.cc/paper/2021/hash/812214fb8e7066bfa6e32c626c2c688b-Abstract.html)  [arxiv](https://arxiv.org/abs/2106.12529)
-
-_Individual Privacy Accounting via a Rényi Filter_\
-(α-β) V. Feldman, T. Zrnic\
-_Conference on Neural Information Processing Systems (NeurIPS) 2021_ [NeurIPS](https://proceedings.neurips.cc/paper/2021/hash/ec7f346604f518906d35ef0492709f78-Abstract.html) [arxiv](https://arxiv.org/abs/2008.11193) [short talk](https://www.youtube.com/watch?v=LGTBO1tSuUM) [long talk](https://www.youtube.com/watch?v=ciqats3QPiw)\
-_Presented at the Symposium on Foundations of Responsible Computing (FORC) 2021_
-
-_Outside the Echo Chamber: Optimizing the Performative Risk_\
-J. Miller\*, J. C. Perdomo\*, T. Zrnic\*\
-_International Conference on Machine Learning (ICML) 2021_ [ICML](https://proceedings.mlr.press/v139/miller21a.html) [arxiv](https://arxiv.org/abs/2102.08570) [blog post](https://toc4fairness.org/self-fulfilling-and-self-negating-predictions-a-short-tale-of-performativity-in-machine-learning/)\
-_Presented at the Symposium on Foundations of Responsible Computing (FORC) 2021_
-
-_Asynchronous Online Testing of Multiple Hypotheses_\
-T. Zrnic, A. Ramdas, M. I. Jordan\
-_Journal of Machine Learning Research (JMLR) 2021_ [JMLR](https://jmlr.org/papers/v22/19-910.html) [arxiv](https://arxiv.org/abs/1812.05068) [blog post](https://bair.berkeley.edu/blog/2019/02/15/false-discoveries/) [code](https://github.com/tijana-zrnic/async-online-FDR-code) [online FDR package](https://bioconductor.org/packages/devel/bioc/html/onlineFDR.html)\
-_Presented at the International Conference on Multiple Comparisons Procedures (MCP) 2019_
-
-_Stochastic Optimization for Performative Prediction_\
-C. Mendler-Dünner\*, J. C. Perdomo\*, T. Zrnic\*, M. Hardt\
-_Conference on Neural Information Processing Systems (NeurIPS) 2020_ [NeurIPS](https://proceedings.neurips.cc/paper/2020/hash/33e75ff09dd601bbe69f351039152189-Abstract.html) [arxiv](https://arxiv.org/abs/2006.06887) [blog post](https://toc4fairness.org/self-fulfilling-and-self-negating-predictions-a-short-tale-of-performativity-in-machine-learning/) [code](https://github.com/zykls/performative-prediction)
-
-_Performative Prediction_\
-J. C. Perdomo\*, T. Zrnic\*, C. Mendler-Dünner, M. Hardt\
-_International Conference on Machine Learning (ICML) 2020_ [ICML](http://proceedings.mlr.press/v119/perdomo20a.html) [arxiv](https://arxiv.org/abs/2002.06673) [blog post](https://toc4fairness.org/self-fulfilling-and-self-negating-predictions-a-short-tale-of-performativity-in-machine-learning/) [talk](https://slideslive.com/38927540/performative-prediction?ref=speaker-17832-latest) [code](https://github.com/zykls/performative-prediction)
-
-_The Power of Batching in Multiple Hypothesis Testing_\
-T. Zrnic, D. L. Jiang, A. Ramdas, M. I. Jordan\
-_International Conference on Artificial Intelligence and Statistics (AISTATS) 2020_ [AISTATS](http://proceedings.mlr.press/v108/zrnic20a.html) [arxiv](https://arxiv.org/abs/1910.04968) [talk](https://slideslive.com/38930298/the-power-of-batching-in-multiple-hypothesis-testing?ref=speaker-17832-latest) [code](https://github.com/jiangdaniel/BatchBH)
-
-_Natural Analysts in Adaptive Data Analysis_\
-T. Zrnic, M. Hardt\
-_International Conference on Machine Learning (ICML) 2019_ [ICML](http://proceedings.mlr.press/v97/zrnic19a.html) [arxiv](https://arxiv.org/abs/1901.11143) [talk](https://slideslive.com/38917650/statistical-learning-theory?ref=speaker-17832-latest)
-
-_SAFFRON: an Adaptive Algorithm for Online Control of the False Discovery Rate_\
-A. Ramdas, T. Zrnic, M. J. Wainwright, M. I. Jordan\
-_International Conference on Machine Learning (ICML) 2018_ [ICML](http://proceedings.mlr.press/v80/ramdas18a.html) [arxiv](https://arxiv.org/abs/1802.09098) [code](https://github.com/tijana-zrnic/SAFFRONcode)
-
-_Tensor-Based Crowdsourced Clustering via Triangle Queries_\
-R. K. Vinayak, T. Zrnic, B. Hassibi\
-_IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2017_ [IEEE](https://ramyakv.github.io/TensorEmbeddingTriangleQuery.pdf)
-
-_Improving Location of Recording Classification Using Electric Network Frequency (ENF) Analysis_\
-Z. Saric, A. Zunic, T. Zrnic, M. Knezevic, D. Despotovic, T. Delic\
-_IEEE International Symposium on Intelligent Systems and Informatics (SISY) 2016_ [IEEE](https://ieeexplore.ieee.org/abstract/document/7601517)
-
-## PhD thesis
-_Prediction and Statistical Inference in Feedback Loops_\
-T. Zrnic\
-[UC Berkeley EECS](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2023/EECS-2023-65.pdf)
+_Magnetic Hamiltonian Monte Carlo_\
+N. Tripuraneni, M. Rowland, Z. Ghahramani, R. Turner
+_International Conference on Machine Learning (ICML) 2017_ [ICML](https://proceedings.mlr.press/v70/tripuraneni17a.html) [arxiv](https://arxiv.org/abs/2102.08570) [arxiv](https://arxiv.org/abs/1607.02738)
