@@ -35,4 +35,4 @@ _Conference on Neural Information Processing Systems (NeurIPS) 2018_ [NeurIPS](h
 
 _Magnetic Hamiltonian Monte Carlo_\
 N. Tripuraneni, M. Rowland, Z. Ghahramani, R. Turner\
-_International Conference on Machine Learning (ICML) 2017_ [ICML](https://proceedings.mlr.press/v70/tripuraneni17a.html) [arxiv](https://arxiv.org/abs/2102.08570) [arxiv](https://arxiv.org/abs/1607.02738)
+_International Conference on Machine Learning (ICML) 2017_ [ICML](https://proceedings.mlr.press/v70/tripuraneni17a.html) [arxiv](https://arxiv.org/abs/1607.02738)
