@@ -28,7 +28,7 @@ _Conference on Learning Theory (COLT) 2022_ [COLT](https://proceedings.mlr.press
 
 _Overparameterization improves robustness to covariate shift in high dimensions/Covariate shift in high-dimensional random feature regression_\
 N. Tripuraneni, B. Adlam, J. Pennington\
-_Conference on Neural Information Processing Systems (NeurIPS) 2022_ [NeurIPS](https://proceedings.neurips.cc/paper/2021/hash/73fed7fd472e502d8908794430511f4d-Abstract.html)  [arxiv](https://arxiv.org/abs/2006.11650)[arxiv](https://arxiv.org/abs/2111.08234)
+_Conference on Neural Information Processing Systems (NeurIPS) 2022_ [NeurIPS](https://proceedings.neurips.cc/paper/2021/hash/73fed7fd472e502d8908794430511f4d-Abstract.html) (https://arxiv.org/abs/2111.08234)
 
 _On the Theory of Transfer Learning: The Importance of Task Diversity_\
 N. Tripuraneni, M. I. Jordan, C. Jin\
