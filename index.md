@@ -13,9 +13,14 @@ email:  "firstname"_"lastname"@berkeley.edu
 
 ## Selected Publications
 
-_Meta-Analysis of Randomized Experiments with Applications to Heavy-Tailed Response Data_\
-N. Tripuraneni, D. Madeka, D. Foster, D. Perrault-Joncas, M. I. Jordan\
-_Preprint_ [arxiv](https://arxiv.org/abs/2112.07602)
+_Choosing a Proxy Metric from Past Experiments_\
+N. Tripuraneni, L. Richardson, A. D'Amour, J. Soriano, S. Yadlowsky\
+_Preprint_ [arxiv](https://arxiv.org/abs/2309.07893)
+
+_Pretraining Data Mixtures Enable Narrow Model Selection
+Capabilities in Transformer Models_\
+S. Yadlowsky, N. Tripuraneni, L. Doshi\
+_Preprint_ [arxiv](https://arxiv.org/abs/2311.00871)
 
 _Optimal Mean Estimation without a Variance_\
 Y. Cherapanamjeri, N. Tripuraneni, P. Bartlett, M. I. Jordan\
