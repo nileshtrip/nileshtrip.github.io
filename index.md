@@ -19,7 +19,7 @@ _Preprint_ [arxiv](https://arxiv.org/abs/2309.07893)
 
 _Pretraining Data Mixtures Enable Narrow Model Selection
 Capabilities in Transformer Models_\
-S. Yadlowsky, N. Tripuraneni, L. Doshi\
+S. Yadlowsky, L. Doshi, N. Tripuraneni\
 _Preprint_ [arxiv](https://arxiv.org/abs/2311.00871)
 
 _Optimal Mean Estimation without a Variance_\
