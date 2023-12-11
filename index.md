@@ -26,13 +26,13 @@ _Optimal Mean Estimation without a Variance_\
 Y. Cherapanamjeri, N. Tripuraneni, P. Bartlett, M. I. Jordan\
 _Conference on Learning Theory (COLT) 2022_ [COLT](https://proceedings.mlr.press/v178/cherapanamjeri22a.html)  [arxiv](https://arxiv.org/abs/2011.12433)
 
-_Overparameterization improves robustness to covariate shift in high dimensions/Covariate shift in high-dimensional random feature regression_\
+_Overparameterization Improves Robustness to Covariate Shift in High Dimensions/Covariate Shift in High-Dimensional Random Feature Regression_\
 N. Tripuraneni, B. Adlam, J. Pennington\
-_Conference on Neural Information Processing Systems (NeurIPS) 2022_ [NeurIPS](https://proceedings.neurips.cc/paper/2021/hash/73fed7fd472e502d8908794430511f4d-Abstract.html) [arxiv](https://arxiv.org/abs/2111.08234)
+_Conference on Neural Information Processing Systems (NeurIPS) 2021_ [NeurIPS](https://proceedings.neurips.cc/paper/2021/hash/73fed7fd472e502d8908794430511f4d-Abstract.html) [arxiv](https://arxiv.org/abs/2111.08234)
 
 _On the Theory of Transfer Learning: The Importance of Task Diversity_\
 N. Tripuraneni, M. I. Jordan, C. Jin\
-_Conference on Neural Information Processing Systems (NeurIPS) 2021_ [NeurIPS](https://proceedings.neurips.cc/paper/2020/hash/59587bffec1c7846f3e34230141556ae-Abstract.html)  [arxiv](https://arxiv.org/abs/2006.11650)
+_Conference on Neural Information Processing Systems (NeurIPS) 2020_ [NeurIPS](https://proceedings.neurips.cc/paper/2020/hash/59587bffec1c7846f3e34230141556ae-Abstract.html)  [arxiv](https://arxiv.org/abs/2006.11650)
 
 _Stochastic Cubic Regularization for Fast Nonconvex Optimization_\
 N. Tripuraneni, M. Stern, C. Jin, J. Regier, M. I. Jordan\
