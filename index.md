@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I'm currently a researcher at Google DeepMind, where I work on topics related to machine learning and artificial intelligence.
+I'm currently a researcher at Google DeepMind, where I work on language models and more broadly topics related to machine learning and artificial intelligence.
 
 I recently completed my PhD at UC Berkeley in computer science advised by Michael Jordan. Before that I received an M.Phil from the University of Cambridge where I was supervised by Zoubin Ghahramani, and a B.A. in Physics from Harvard University.
 
@@ -21,6 +21,15 @@ _Pretraining Data Mixtures Enable Narrow Model Selection
 Capabilities in Transformer Models_\
 S. Yadlowsky, L. Doshi, N. Tripuraneni\
 _Preprint_ [arxiv](https://arxiv.org/abs/2311.00871)
+
+_Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context_\
+Gemini Team, Google.\
+_Preprint_ [arxiv](https://arxiv.org/abs/2403.05530)
+
+_Gemini: a family of highly capable multimodal models_\
+Gemini Team, Google.\
+_Preprint_ [arxiv](https://arxiv.org/abs/2312.11805)
+
 
 _Optimal Mean Estimation without a Variance_\
 Y. Cherapanamjeri, N. Tripuraneni, P. Bartlett, M. I. Jordan\
