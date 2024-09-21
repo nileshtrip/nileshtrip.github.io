@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I'm currently a researcher at Google DeepMind, where I work on language models and more broadly topics related to machine learning and artificial intelligence.
+I'm currently a researcher at Google DeepMind, where I work on language models (i.e. Gemini) and more broadly topics related to machine learning and artificial intelligence.
 
 I recently completed my PhD at UC Berkeley in computer science advised by Michael Jordan. Before that I received an M.Phil from the University of Cambridge where I was supervised by Zoubin Ghahramani, and a B.A. in Physics from Harvard University.
 
