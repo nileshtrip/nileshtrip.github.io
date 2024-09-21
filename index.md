@@ -14,7 +14,7 @@ email:  "firstname"_"lastname"@berkeley.edu
 ## Selected Publications
 
 _Michelangelo: Long Context Evaluations Beyond Haystacks via Latent Structure Queries_\
-Kiran Vodrahalli, Santiago Ontanon, Nilesh Tripuraneni, Kelvin Xu, Sanil Jain, Rakesh Shivanna, Jeffrey Hui, Nishanth Dikkala, Mehran Kazemi, Bahare Fatemi, Rohan Anil, Ethan Dyer, Siamak Shakeri, Roopali Vij, Harsh Mehta, Vinay Ramasesh, Quoc Le, Ed Chi, Yifeng Lu, Orhan Firat, Angeliki Lazaridou, Jean-Baptiste Lespiau, Nithya Attaluri, Kate Olszewska\
+Kiran Vodrahalli, Santiago Ontanon, Nilesh Tripuraneni, et al. \
 _Preprint_ [arxiv](https://arxiv.org/abs/2409.12640)
 
 _Choosing a Proxy Metric from Past Experiments_\
