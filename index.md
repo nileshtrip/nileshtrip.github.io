@@ -13,9 +13,13 @@ email:  "firstname"_"lastname"@berkeley.edu
 
 ## Selected Publications
 
+_Michelangelo: Long Context Evaluations Beyond Haystacks via Latent Structure Queries_\
+Kiran Vodrahalli, Santiago Ontanon, Nilesh Tripuraneni, Kelvin Xu, Sanil Jain, Rakesh Shivanna, Jeffrey Hui, Nishanth Dikkala, Mehran Kazemi, Bahare Fatemi, Rohan Anil, Ethan Dyer, Siamak Shakeri, Roopali Vij, Harsh Mehta, Vinay Ramasesh, Quoc Le, Ed Chi, Yifeng Lu, Orhan Firat, Angeliki Lazaridou, Jean-Baptiste Lespiau, Nithya Attaluri, Kate Olszewska\
+_Preprint_ [arxiv](https://arxiv.org/abs/2409.12640)
+
 _Choosing a Proxy Metric from Past Experiments_\
 N. Tripuraneni, L. Richardson, A. D'Amour, J. Soriano, S. Yadlowsky\
-_Preprint_ [arxiv](https://arxiv.org/abs/2309.07893)
+_KDD 2024_ [arxiv](https://arxiv.org/abs/2309.07893)
 
 _Pretraining Data Mixtures Enable Narrow Model Selection
 Capabilities in Transformer Models_\
@@ -29,7 +33,6 @@ _Preprint_ [arxiv](https://arxiv.org/abs/2403.05530)
 _Gemini: a family of highly capable multimodal models_\
 Gemini Team, Google.\
 _Preprint_ [arxiv](https://arxiv.org/abs/2312.11805)
-
 
 _Optimal Mean Estimation without a Variance_\
 Y. Cherapanamjeri, N. Tripuraneni, P. Bartlett, M. I. Jordan\
